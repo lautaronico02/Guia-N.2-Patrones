@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Guia Ejercitación N.2": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
